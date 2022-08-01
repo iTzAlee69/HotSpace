@@ -16,4 +16,4 @@ client.on('messageUpdate', (o, message) => {
 require('./utils/handlers/editHandles')(client, message);
 })
 
-client.login("");
+client.login("process.env.token");
