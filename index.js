@@ -16,4 +16,4 @@ client.on('messageUpdate', (o, message) => {
 require('./utils/handlers/editHandles')(client, message);
 })
 
-client.login("MTAwMzYzNDQ2MDM4Nzk3OTI2NQ.GsvUpM.hK2GD9QEzchz2DT3ToA3VtLqbk6aYPzrh6GoLo");
+client.login("");
